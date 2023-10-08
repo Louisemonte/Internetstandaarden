@@ -1,0 +1,173 @@
+h1 { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  #92816B;
+    font-size: 2em;
+    text-align: center;
+}
+h2 { font-family: Georgia, 'Times New Roman', Times, serif;
+color: #92816B;
+font-size:1.5em;
+text-align: center;
+}
+
+
+
+p { text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+ul { display: flex;
+    justify-content:space-evenly;
+    height:1em;
+    margin: 2em;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li {list-style: none;
+font-size: 0.9em;
+color: antiquewhite;}
+
+nav :nth-of-type(1) {background-color:#dac5ac;
+    padding: 0.8em;
+    border-radius: 0.6em;}
+
+nav :nth-of-type(2) {background-color:#dac5ac;
+    padding: 0.8em;
+    border-radius: 0.6em;}
+
+nav :nth-of-type(3) {background-color:#dac5ac;
+    padding: 0.8em;
+    border-radius: 0.6em;}
+
+nav :nth-of-type(4) {background-color:#dac5ac;
+    padding: 0.8em;
+    border-radius: 0.6em;}
+
+
+ul :hover { background: rgb(255, 255, 255);
+border-radius: 0.6em;}
+
+.mediterranean {
+    display: flex;
+    justify-content: center;
+    gap: 3.5em;
+    align-items: center; 
+    height: 300px;
+    background-color:#d3bfa5;
+    border-radius: 0.8em;
+  }
+
+.Contemporay {
+    display: flex;
+    justify-content: center;
+    gap: 3.5em;
+    align-items: center;
+    height: 300px;
+    background-color: #d3bfa5;
+    border-radius: 0.8em;
+}
+.Industrieel {display: flex;
+    justify-content: center;
+    gap: 3.5em;
+    align-items: center;
+    height: 300px;
+    background-color: #d3bfa5;
+    border-radius: 0.8em;
+}
+.Japandi { display: flex;
+    justify-content: center;
+    gap: 3.5em;
+    align-items: center;
+    height: 300px;
+    background-color: #d3bfa5;
+   border-radius: 0.8em;}
+
+H3 {background-color:#c6b094;
+    width: 8em;
+    height: 3em;
+    align-items: center;
+    text-align: center;
+    border-radius: 0.3em;
+    font-size: large;
+    margin: 1.5em;
+    justify-content: center;
+    display: flex;
+    margin-left: 45%;
+    color: #655a4d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {background-color:#F8E9D6;}
+
+.Tekst1 p { color:#92816B;
+    margin-left: 20em;
+    margin-right: 20em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Tekst2 p { color:#92816B;    margin-left: 20em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 20em;}
+.Tekst3 p { color:#92816B;    margin-left: 20em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 20em;}
+.Tekst4 p { color:#92816B;    margin-left: 20em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 20em;
+}
+
+.logo { justify-content: center;
+    display: flex;
+    margin: 3em;
+}
+footer {
+    background-color: #dac5ac;
+    color: white;
+    border-radius: 1em;
+    text-align: center; 
+    gap: 2em;
+    font-family: Arial, sans-serif;
+    margin-right: 30em;
+    margin-left: 30em;
+    padding-bottom: 2em;
+    color:antiquewhite;font-family: Georgia, 'Times New Roman', Times, serif;
+padding-top: 1em;
+} 
+
+
+footer li { list-style: none;
+    color: #64594b;
+
+
+}
+h4 { font-size: x-large;
+    color: #92816B;
+    
+}
+
+
+
+nav { padding-left: 7em;
+    padding-right: 7em;
+}
+
+body {
+
+    font-family: Arial, sans-serif;
+    background-color: #e5d7c4;
+    margin: 4em;
+ }
+
+section.kleur {display: flex;
+    justify-content: center;
+    margin: 2em;
+}
+
+.banner {
+    height: 100vh;
+    width: 100%;
+    background-image: url(Images/banner.jpeg);
+    background-size: cover;
+    background-position: center;
+}

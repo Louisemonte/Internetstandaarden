@@ -1,0 +1,136 @@
+body {
+
+    background-color: #e5d7c4;
+    margin-right: 5em;
+    margin-left: 5em;
+ }
+ header h1 {
+    font-size: 2.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul { display: flex;
+    justify-content:space-evenly;
+    height:1.2em;
+    margin: 2em;
+    align-items: center;
+}
+
+li {list-style: none;
+color: antiquewhite;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.intro { text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    color:#92816B;
+    text-align: center;
+}
+
+.ik { background-color: #dac5ac;
+    padding: 1.5em;
+    border-radius: 1em;
+    display: flex;
+    margin: 2em;
+    align-items: center;
+    padding-left: 5em;
+    color: #92816B;
+}
+.ik p{ margin: 3em;
+
+           }
+
+nav :nth-of-type(1) {background-color:#dac5ac;
+    padding: 0.8em;
+    border-radius: 0.6em;
+    font-size: 1em;}
+
+nav :nth-of-type(2) {background-color:#dac5ac;
+    padding: 0.8em;
+    border-radius: 0.6em;
+    font-size: 1em;}
+
+nav :nth-of-type(3) {background-color:#dac5ac;
+    padding: 0.8em;
+    border-radius: 0.6em;
+    font-size: 1em;}
+
+nav :nth-of-type(4) {background-color:#dac5ac;
+    padding: 0.8em;
+    border-radius: 0.6em;
+    font-size: 1em;}
+
+ul :hover { background: rgb(255, 255, 255);
+        border-radius: 0.6em;}
+
+
+.favorite {
+    background-color: #dac5ac;
+    padding: 3em;
+    border-radius: 1em;
+    text-align: center;
+    color:#92816B;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.favorite p {  margin-right: 5em;
+    margin-left: 5em;
+    margin-bottom: 3em;
+    
+}
+main { margin: 5em;}
+
+footer {
+    background-color: #dac5ac;
+    color: white;
+    border-radius: 1em;
+    text-align: center; 
+    gap: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 30em;
+    margin-left: 30em;
+    padding-bottom: 2em;
+    color:antiquewhite;
+padding-top: 1em;
+
+} 
+
+
+footer p { list-style: none;
+    color: #64594b;
+
+
+}
+h4 { font-size: x-large;
+    color: #92816B;
+}
+
+nav { padding-left: 7em;
+    padding-right: 7em;
+}
+
+.imageshor {gap:3em;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    margin: 2em;
+
+}
+
+h2 { justify-content: center;
+    align-items: center; 
+    display: flex;
+    font-size: xx-large;
+    color:#92816B;
+}
+h3 { font-size: x-large;
+
+
+}
+p {color: #92816B;
+
+
+}
