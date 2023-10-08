@@ -132,7 +132,7 @@ h3 {color: #64594b;font-family: Georgia, 'Times New Roman', Times, serif;}
 .banner {
     height: 100vh;
     width: 100%;
-    background-image: url(Images/bannerhoofdpagina.webp);
+    background-image: url(assets/bannerhoofdpagina.webp);
     background-size: cover;
     background-position: center;
 }
