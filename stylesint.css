@@ -59,7 +59,7 @@ border-radius: 0.6em;}
     border-radius: 0.8em;
   }
 
-.Contemporay {
+.contemporay {
     display: flex;
     justify-content: center;
     gap: 3.5em;
@@ -68,7 +68,7 @@ border-radius: 0.6em;}
     background-color: #d3bfa5;
     border-radius: 0.8em;
 }
-.Industrieel {display: flex;
+.industrieel {display: flex;
     justify-content: center;
     gap: 3.5em;
     align-items: center;
@@ -76,7 +76,7 @@ border-radius: 0.6em;}
     background-color: #d3bfa5;
     border-radius: 0.8em;
 }
-.Japandi { display: flex;
+.japandi { display: flex;
     justify-content: center;
     gap: 3.5em;
     align-items: center;
@@ -101,18 +101,18 @@ H3 {background-color:#c6b094;
 
 body {background-color:#F8E9D6;}
 
-.Tekst1 p { color:#92816B;
+.tekst1 p { color:#92816B;
     margin-left: 20em;
     margin-right: 20em;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.Tekst2 p { color:#92816B;    margin-left: 20em;
+.tekst2 p { color:#92816B;    margin-left: 20em;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-right: 20em;}
-.Tekst3 p { color:#92816B;    margin-left: 20em;
+.tekst3 p { color:#92816B;    margin-left: 20em;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-right: 20em;}
-.Tekst4 p { color:#92816B;    margin-left: 20em;
+.tekst4 p { color:#92816B;    margin-left: 20em;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-right: 20em;
 }
